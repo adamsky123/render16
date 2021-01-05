@@ -1,0 +1,4 @@
+baseURL = "https://beginnersheetmusic7.onrender.com"
+languageCode = "en-us"
+title = "New Beginners Sheet Music "
+theme = "hugo-theme-minos"
